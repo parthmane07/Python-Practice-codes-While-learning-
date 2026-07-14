@@ -11,7 +11,7 @@ print("4 for div")
 
 opp = int(input("Enter the operation: "))
 
-if opp == 1:
+if (opp == 1):
     print("result:", num1 + num2)
 
 elif opp == 2:
