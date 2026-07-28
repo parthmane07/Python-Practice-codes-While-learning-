@@ -1,3 +1,4 @@
 This is a text file.
 Used to learn the file input outut.
-Cheaking 'A' Mode...
+Cheaking 'A' Mode...without next line char
+with next line char
