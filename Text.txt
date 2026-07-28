@@ -1,2 +1,2 @@
-This is a text file. used to learn the filr input outut.
-Used to learn the filr input outut.
+This is a text file.
+Used to learn the file input outut.
