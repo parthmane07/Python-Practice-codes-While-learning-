@@ -14,7 +14,7 @@ numbers.append(int(num))
 print(numbers)
 
 i = 0
-max = 0
+max = numbers[0]
 while i < len(numbers):
     if numbers[i] > max :
         max = numbers[i]
