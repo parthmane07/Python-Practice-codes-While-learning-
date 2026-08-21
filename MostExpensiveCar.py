@@ -15,7 +15,7 @@ class Car:
     def disccount(self, percent):
         dis = self.price * (percent/100)
         self.price = self.price - dis
-        print("Price of",self.brand, self.model, "after disccount is:", self.price)
+        print("Price of",self.brand, self.model, "after disccount of", percent,"% is:", self.price)
         return self.price
 
     def display(self):
@@ -43,4 +43,5 @@ def MostExpensive(cars):
 
     return expensive
 
+print("Most expensive car is:")
 MostExpensive([c1, c2, c3]).display()
