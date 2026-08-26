@@ -28,10 +28,10 @@ E1.raise_salary(20)
 E2.raise_salary(10)
 E3.raise_salary(15)
 
-def highest_salary(employee):
-    MostPaid = employee[0]
+def highest_salary(employees):
+    MostPaid = employees[0]
 
-    for i in employee:
+    for i in employees:
         if i.salary > MostPaid.salary:
             MostPaid = i
         
