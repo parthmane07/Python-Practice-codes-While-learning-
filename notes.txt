@@ -1,0 +1,7 @@
+Python
+File Handling
+OOP
+SQL
+Projects
+Git
+GitHub
