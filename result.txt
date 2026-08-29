@@ -1,0 +1,15 @@
+Parth--90.0 pass A+
+Tanu--100.0 pass A+
+Nikhil--70.0 pass B
+Rahul--85.0 pass A
+Aman--32.0 fail F
+Priya--69.0 pass C
+Rohit--28.0 fail F
+Sneha--49.0 pass F
+Karan--67.0 pass C
+Total student:9
+Passed :7
+Failed:2
+Highest:Tanu 100.0
+Lowest:Rohit 28.0
+Average:65.55555555555556
