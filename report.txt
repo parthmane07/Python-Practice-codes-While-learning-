@@ -1,0 +1,6 @@
+Total Students:9
+Average marks:67.55555555555556
+Highest:Tanu 100.0
+Lowest:Rohit 28.0
+Passed:7
+Failed:2

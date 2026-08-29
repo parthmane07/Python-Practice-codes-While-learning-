@@ -1,5 +1,6 @@
 with open("students.txt", "r") as f:
     data = f.readlines()
+    
     with open("passed_sudents.txt", "w") as f:
         for line in data:
             name, marks = line.split(",")

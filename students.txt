@@ -1,3 +1,9 @@
 Parth,90
 Tanu,100
 Nikhil,70
+Rahul,85
+Aman,32
+Priya,91
+Rohit,28
+Sneha,45
+Karan,67
