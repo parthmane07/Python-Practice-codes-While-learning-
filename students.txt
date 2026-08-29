@@ -3,7 +3,7 @@ Tanu,100
 Nikhil,70
 Rahul,85
 Aman,32
-Priya,91
+Priya,69
 Rohit,28
-Sneha,45
+Sneha,49
 Karan,67
