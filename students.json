@@ -1,12 +1,12 @@
 [
-    {"Name":"Parth","Age":19,"Course":"BCA","Marks":90,"Passed":true},
-    {"Name":"Tanu","Age":18,"Course":"BCA","Marks":82,"Passed":true},
-    {"Name":"Amit","Age":19,"Course":"BBA","Marks":68,"Passed":true},
-    {"Name":"Sneha","Age":20,"Course":"BCA","Marks":74,"Passed":true},
-    {"Name":"Priya","Age":19,"Course":"BSc","Marks":91,"Passed":true},
-    {"Name":"Rohan","Age":21,"Course":"BCA","Marks":55,"Passed":false},
-    {"Name":"Neha","Age":20,"Course":"BCA","Marks":88,"Passed":true},
-    {"Name":"Akash","Age":19,"Course":"BCom","Marks":72,"Passed":true},
-    {"Name":"Vikas","Age":21,"Course":"BCA","Marks":63,"Passed":true},
-    {"Name":"Pooja","Age":20,"Course":"BBA","Marks":48,"Passed":false}
+    {"Name": "Parth", "Age": 19, "Course": "BCA", "Marks": 90, "Passed": true}, 
+{"Name": "Tanu", "Age": 18, "Course": "BCA", "Marks": 82, "Passed": true}, 
+{"Name": "Amit", "Age": 19, "Course": "BBA", "Marks": 68, "Passed": true}, 
+{"Name": "Sneha", "Age": 20, "Course": "BCA", "Marks": 74, "Passed": true}, 
+{"Name": "Priya", "Age": 19, "Course": "BSc", "Marks": 91, "Passed": true}, 
+{"Name": "Rohan", "Age": 21, "Course": "BCA", "Marks": 55, "Passed": false}, 
+{"Name": "Neha", "Age": 20, "Course": "BCA", "Marks": 88, "Passed": true}, 
+{"Name": "Akash", "Age": 19, "Course": "BCom", "Marks": 72, "Passed": true}, 
+{"Name": "Vikas", "Age": 21, "Course": "BCA", "Marks": 39, "Passed": false}, 
+{"Name": "Pooja", "Age": 20, "Course": "BBA", "Marks": 48, "Passed": false}
 ]
