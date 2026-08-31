@@ -1,0 +1,21 @@
+{
+    "college": "COCSIT",
+    "location": "Latur",
+    "students": [
+        {
+            "Name": "Parth",
+            "Course": "BCA",
+            "Marks": 90
+        },
+        {
+            "Name": "Tanu",
+            "Course": "BCA",
+            "Marks": 82
+        },
+        {
+            "Name": "Nikhil",
+            "Course": "BSc",
+            "Marks": 88
+        }
+    ]
+}
