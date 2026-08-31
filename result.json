@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Parth",
+        "marks": 90,
+        "result": "Pass",
+        "grade": "A"
+    },
+    {
+        "name": "Tanu",
+        "marks": 82,
+        "result": "Pass",
+        "grade": "B"
+    },
+    {
+        "name": "Amit",
+        "marks": 68,
+        "result": "Pass",
+        "grade": "C"
+    },
+    {
+        "name": "Sneha",
+        "marks": 74,
+        "result": "Pass",
+        "grade": "C"
+    },
+    {
+        "name": "Priya",
+        "marks": 91,
+        "result": "Pass",
+        "grade": "A"
+    },
+    {
+        "name": "Rohan",
+        "marks": 55,
+        "result": "Fail",
+        "grade": "D"
+    },
+    {
+        "name": "Neha",
+        "marks": 88,
+        "result": "Pass",
+        "grade": "B"
+    },
+    {
+        "name": "Akash",
+        "marks": 72,
+        "result": "Pass",
+        "grade": "C"
+    },
+    {
+        "name": "Vikas",
+        "marks": 39,
+        "result": "Fail",
+        "grade": "F"
+    },
+    {
+        "name": "Ramlal",
+        "marks": 99,
+        "result": "Pass",
+        "grade": "A"
+    },
+    {
+        "name": "Sheela",
+        "marks": 35,
+        "result": "Fail",
+        "grade": "F"
+    }
+]
