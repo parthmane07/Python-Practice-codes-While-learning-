@@ -1,20 +1,25 @@
 {
-    "college": "COCSIT",
+    "college": "ABC College",
     "location": "Latur",
     "students": [
         {
-            "Name": "Parth",
+            "Name": "Rahul",
             "Course": "BCA",
-            "Marks": 90
+            "Marks": 85
         },
         {
-            "Name": "Tanu",
-            "Course": "BCA",
-            "Marks": 82
+            "Name": "Amit",
+            "Course": "BBA",
+            "Marks": 72
         },
         {
-            "Name": "Nikhil",
-            "Course": "BSc",
+            "Name": "Sneha",
+            "Course": "BCA",
+            "Marks": 91
+        },
+        {
+            "Name": "Priya",
+            "Course": "BBA",
             "Marks": 88
         }
     ]
