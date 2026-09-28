@@ -1,27 +1,11 @@
-#Calculator
+def Add(a, b):
+    return a+b
 
-num1 = float(input("Enter the num1: "))
-num2 = float(input("Enter the num2: "))
+def Sub(a,b):
+    return a-b
 
-print("select operation:")
-print("1 for add")
-print("2 for sub")
-print("3 for mul")
-print("4 for div")
+def Mul(a,b):
+    return a*b
 
-opp = int(input("Enter the operation: "))
-
-if (opp == 1):
-    print("result:", num1 + num2)
-
-elif opp == 2:
-    print("result:", num1 - num2)
-
-elif opp == 3:
-    print("result:", num1 * num2)
-
-elif opp == 4:
-    print("result:", num1 / num2)
-
-else:
-    print("invalid opperation")
+def Div(a,b):
+    return a/b
